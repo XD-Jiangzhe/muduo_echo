@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/router/Documents/use_muduo/epoll,poll,select_server/epoll_server.cc
+iostream
+-
+string
+-
+vector
+-
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+signal.h
+-
+assert.h
+-
+fcntl.h
+-
+errno.h
+-
+string.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+sys/socket.h
+-
+sys/select.h
+-
+sys/time.h
+-
+sys/epoll.h
+-
+

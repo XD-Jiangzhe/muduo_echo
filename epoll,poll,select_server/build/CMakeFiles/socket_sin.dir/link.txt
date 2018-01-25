@@ -1,0 +1,1 @@
+g++   -g -Wall -std=c++11   CMakeFiles/socket_sin.dir/socket_sin.cc.o  -o ../bin/socket_sin -rdynamic 

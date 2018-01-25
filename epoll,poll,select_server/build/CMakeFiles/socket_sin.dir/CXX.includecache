@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/router/Documents/use_muduo/epoll,poll,select_server/socket_sin.cc
+netinet/in.h
+-
+iostream
+-
+algorithm
+-
+assert.h
+-
+stddef.h
+-
+boost/static_assert.hpp
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+string
+-
+cstring
+-
+

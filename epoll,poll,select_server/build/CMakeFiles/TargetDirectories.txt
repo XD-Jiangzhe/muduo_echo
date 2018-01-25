@@ -1,0 +1,6 @@
+/home/router/Documents/use_muduo/epoll,poll,select_server/build/CMakeFiles/rebuild_cache.dir
+/home/router/Documents/use_muduo/epoll,poll,select_server/build/CMakeFiles/edit_cache.dir
+/home/router/Documents/use_muduo/epoll,poll,select_server/build/CMakeFiles/epoll_server.dir
+/home/router/Documents/use_muduo/epoll,poll,select_server/build/CMakeFiles/poll_server.dir
+/home/router/Documents/use_muduo/epoll,poll,select_server/build/CMakeFiles/select_server.dir
+/home/router/Documents/use_muduo/epoll,poll,select_server/build/CMakeFiles/socket_sin.dir
